@@ -1,0 +1,6 @@
+@SchlAPIApp_HostAddress = http://localhost:5162
+
+GET {{SchlAPIApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
